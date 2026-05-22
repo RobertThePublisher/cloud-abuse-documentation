@@ -45,6 +45,11 @@ Unless you are paying for premium enterprise tiers, keeping massive amounts of d
 
 If your account looks like this right now, your data is on life support. Get it off immediately.
 
+---
+
+## Languages
+[Turkey](https://github.com/RobertThePublisher/cloud-abuse-documentation/blob/main/README/README_tr.md)
+
 ```bash
 # 1. Force pull your essential data back to a local machine
 git clone [https://github.com/username/critical-backup-repo.git](https://github.com/username/critical-backup-repo.git)
